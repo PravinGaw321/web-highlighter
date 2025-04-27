@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html{
+  scroll-behavior: smooth;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+ul, li, a{
+  color: #000;
+  list-style: none;
+  list-style-type: none;
+}
+
+
+
+
+
+
+
